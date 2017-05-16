@@ -1,0 +1,10 @@
+/*태그 선택자(selector)*/
+div {background-color:palegreen; border:1px solid black; height:50px;}
+/*Class 선택자*/
+.skyblue {background-color:skyblue;}
+.btn {border:1px solid black; height:70px; padding:5px;}
+.success {background-color:forestgreen; color:white;}
+.warning {background-color:red; color:white;}
+/*ID 선택자*/
+#goldDiv1 {background-color:gold;}
+#goldDiv2 {background-color:goldenrod;}			
