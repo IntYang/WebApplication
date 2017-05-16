@@ -22,7 +22,7 @@ public class Exam08HttpController {
 		return "http/exam01";
 	}
 	
-	@RequestMapping(value="/exam02")
+	@RequestMapping(value="/exam02") // 고정적 방식(requst 받아서 사용하는 것)
 	public String exam02(HttpServletRequest request, Model model) {	
 		String method = request.getMethod();
 		String uri = request.getRequestURI();

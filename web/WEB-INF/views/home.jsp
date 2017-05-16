@@ -72,6 +72,15 @@
 		
 		<h4>파일 업로드</h4>
 		<a href="form/exam02" class="btn btn-primary">파일선택 추가</a>
+		
+		<h4>파일 다운로드</h4>
+		<a href="file/exam03" class="btn btn-primary">파일로 저장</a>
+		<img src="file/exam03" width="100px" height="100px"/>
+		
+		<h4>의존성 주입</h4>
+		<a href ="di/exam01" class="btn btn-primary">회원가입</a>
+		<a href ="di/exam02" class="btn btn-primary">로그인</a>
+		
 
 	</body>
 </html>
